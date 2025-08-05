@@ -1,9 +1,9 @@
-# GNuxS - Homebrew Linux & Android Repository
+# GxLinux - Homebrew Linux & Android Repository
 
 ## Descripción
-GNuxS es un repositorio innovador que reúne programas, scripts y sistemas operativos basados en Linux, junto con aplicaciones homebrew para dispositivos Android. Nuestro objetivo es proporcionar herramientas y software únicos para usuarios que buscan optimizar, personalizar y experimentar con sus sistemas.
+GxLinux es un repositorio innovador que reúne programas, scripts y sistemas operativos basados en Linux, junto con aplicaciones homebrew para dispositivos Android. Nuestro objetivo es proporcionar herramientas y software únicos para usuarios que buscan optimizar, personalizar y experimentar con sus sistemas.
 
-GNuxS es ideal para:
+Gxlinux es ideal para:
 - Entusiastas de Linux que desean explorar sistemas operativos ligeros y personalizables.
 - Usuarios de Android interesados en aplicaciones homebrew que expanden las capacidades de sus dispositivos.
 - Desarrolladores y makers que buscan herramientas prácticas y scripts para automatizar procesos.
