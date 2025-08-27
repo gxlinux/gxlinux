@@ -1,6 +1,6 @@
 # gxlinux
 
-![gxlinux Logo](assets/logo.png)
+![gxlinux Logo](ChatGPT Image 27 ago 2025, 17_56_57.png)
 
 **gxlinux** es una distribución experimental basada en **Debian**, con un escritorio y un administrador de archivos desarrollados en **Python (PySide6)**.  
 
