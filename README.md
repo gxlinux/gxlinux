@@ -1,5 +1,7 @@
 # gxlinux
 
+![gxlinux Logo](assets/logo.png)
+
 **gxlinux** es una distribución experimental basada en **Debian**, con un escritorio y un administrador de archivos desarrollados en **Python (PySide6)**.  
 
 Su objetivo es ofrecer un sistema ligero, minimalista y moderno, que combine la estabilidad de Debian con una interfaz gráfica simple, colorida y altamente personalizable.
