@@ -1,62 +1,25 @@
-# GxLinux - Homebrew Linux & Android Repository
+# gxlinux
 
-## Descripción
-GxLinux es un repositorio innovador que reúne programas, scripts y sistemas operativos basados en Linux, junto con aplicaciones homebrew para dispositivos Android. Nuestro objetivo es proporcionar herramientas y software únicos para usuarios que buscan optimizar, personalizar y experimentar con sus sistemas.
+**gxlinux** es una distribución experimental basada en **Debian**, con un escritorio y un administrador de archivos desarrollados en **Python (PySide6)**.  
 
-Gxlinux es ideal para:
-- Entusiastas de Linux que desean explorar sistemas operativos ligeros y personalizables.
-- Usuarios de Android interesados en aplicaciones homebrew que expanden las capacidades de sus dispositivos.
-- Desarrolladores y makers que buscan herramientas prácticas y scripts para automatizar procesos.
+Su objetivo es ofrecer un sistema ligero, minimalista y moderno, que combine la estabilidad de Debian con una interfaz gráfica simple, colorida y altamente personalizable.
 
-## Características
-### Para Linux:
-- **Sistemas Operativos Personalizados:** Distribuciones basadas en Linux diseñadas para rendimiento y flexibilidad.
-- **Scripts Útiles:** Scripts para automatización, mantenimiento, y optimización de sistemas Linux.
-- **Software Homebrew:** Aplicaciones exclusivas que no encontrarás en repositorios convencionales.
+## ✨ Características principales
+- Basado en **Debian** para mayor estabilidad y soporte.
+- Escritorio propio desarrollado en **Python (PySide6)**.
+- Administrador de archivos ligero y fácil de usar.
+- Interfaz minimalista con colores llamativos.
+- Sistema enfocado en simplicidad y personalización.
 
-### Para Android:
-- **Aplicaciones Homebrew:** Apps diseñadas para mejorar la productividad y personalización en dispositivos Android.
-- **Compatibilidad Extendida:** Herramientas pensadas para entornos con root y sin root.
-- **Seguridad y Control:** Soluciones que mejoran la gestión y privacidad del usuario.
+## 🚀 Estado del proyecto
+Actualmente en etapa **experimental**.  
+Se busca construir un entorno de escritorio funcional desde Python, integrando las herramientas básicas de un sistema operativo.
 
-## Contenido
-El repositorio GNuxS incluye:
-1. **Programas y Scripts para Linux:**
-   - Scripts de automatización y gestión del sistema.
-   - Herramientas de monitoreo de rendimiento.
-   - Scripts para tareas específicas como backups, actualizaciones y seguridad.
+## 📌 Objetivos futuros
+- Mejorar la interfaz gráfica del escritorio.  
+- Ampliar funciones del explorador de archivos.  
+- Incluir aplicaciones esenciales y utilidades básicas.  
+- Crear imágenes ISO listas para instalación y prueba.  
 
-2. **Distribuciones de Linux Personalizadas:**
-   - Distros minimalistas diseñadas para desarrolladores.
-   - Sistemas operativos enfocados en hardware antiguo o dispositivos embebidos.
-
-3. **Aplicaciones Android:**
-   - **Task Automator:** Automatiza tareas en Android con facilidad.
-   - **SecureVault:** Asegura tus datos con cifrado avanzado.
-   - **System Tweaker:** Ajusta y optimiza el rendimiento del sistema.
-
-## Instalación
-### En Linux:
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/tuusuario/gnuxs.git
-   ```
-2. Accede al directorio y sigue las instrucciones específicas de cada script o programa.
-
-### En Android:
-- Descarga las aplicaciones desde la [sección de lanzamientos](https://github.com/tuusuario/gnuxs/releases).
-- Habilita la instalación desde fuentes desconocidas en tu dispositivo.
-- Instala el APK y disfruta.
-
-## Contribuciones
-¡Las contribuciones son bienvenidas! Si tienes un script, programa o aplicación que pueda enriquecer GNuxS:
-1. Realiza un fork del repositorio.
-2. Realiza tus cambios.
-3. Crea un pull request con una descripción detallada de tus aportaciones.
-
-## Licencia
-Este repositorio está disponible bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
----
-
-Explora, contribuye y comparte GNuxS. ¡La innovación comienza aquí!
+## 🐧 Inspiración
+gxlinux combina la robustez de GNU/Linux con la flexibilidad de Python, explorando nuevas formas de crear entornos de escritorio modernos y ligeros.
